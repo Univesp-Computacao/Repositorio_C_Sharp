@@ -6,11 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="1 Fundamentos\" />
     <Folder Include="3 Manipulacao de String\" />
     <Folder Include="4 Modularizacao\" />
     <Folder Include="5 Manipulacao de Aquivos\" />
-    <Folder Include="2 Estruturas de Repeticao\" />
     <Folder Include="6 Algortimos de Ordenacao\" />
     <Folder Include="7 POO\" />
   </ItemGroup>
